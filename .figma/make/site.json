@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines university academic management by enabling students to register courses, track grades, manage schedules, and access digital IDs in one platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
